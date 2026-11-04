@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hadischolar6.github.io/sitemap-index.xml
